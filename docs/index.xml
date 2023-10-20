@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🌿 Busenur Kizilaslan Personal Web Page</title>
+    <link>/</link>
+    <description>Recent content on 🌿 Busenur Kizilaslan Personal Web Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>/blog/post1/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/post1/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello!
+I’m a researcher at the National Centre for Suicide Research and Prevention, part of the Institute of Clinical Medicine at the University of Oslo. My journey has led me to contribute to an exciting project called PERMANENS, a collaborative effort spanning Ireland, Sweden, Spain, and Norway. We’re leveraging machine learning to create prediction models using data from population registries. These models help us understand self-harm and suicide mortality risks, and we’re even crafting a clinical decision support system software to predict potential suicide risk for individual patients.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>    Jun 12, 2022 Participating in Yapay Öğrenme Sohbetleri Online  Jun 9, 2022 Participating in EMEA Google Cloud Applied ML Summit Online  Jun 7, 2022 Participating in Research School in AI Online  Jun 3, 2022 Participating in NordStar Workshop Oslo  May 24, 2022 Participating in Ethical AI in Practice Oslo    </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Article Kizilaslan, B., Egrioglu, E., &amp;amp; Evren, A. A. (2020). Intuitionistic fuzzy ridge regression functions. Communications in Statistics-Simulation and Computation, 49(3), 699-708.
+ Sarıca, B., Eğrioğlu, E., &amp;amp; Aşıkgil, B. (2018). A new hybrid method for time series forecasting: AR–ANFIS. Neural Computing and Applications, 29(3), 749-760.
+ Inan, D., Egrioglu, E., Sarica, B., Askin, O. E., &amp;amp; Tez, M. (2017). Particle swarm optimization based Liu-type estimator. Communications in Statistics-Theory and Methods, 46(22), 11358-11369.</description>
+    </item>
+    
+  </channel>
+</rss>

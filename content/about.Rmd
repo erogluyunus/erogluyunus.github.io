@@ -1,0 +1,52 @@
+---
+title: About
+---
+
+Hello! 
+
+I'm a researcher at the [National Centre for Suicide Research and Prevention], part of the Institute of Clinical Medicine at the University of Oslo. My journey has led me to contribute to an exciting project called [PERMANENS], a collaborative effort spanning Ireland, Sweden, Spain, and Norway. We're leveraging machine learning to create prediction models using data from population registries. These models help us understand self-harm and suicide mortality risks, and we're even crafting a clinical decision support system software to predict potential suicide risk for individual patients. It's a rewarding way to address a significant medical challenge.
+
+My academic journey began at Mimar Sinan Fine Arts University, where I earned my bachelor's and master's degrees in Statistics. In 2018, I was thrilled to win the second prize in the Young Scientists Awards at the International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat) in Poland. This recognition motivated me to contribute more to my field. In 2020, I achieved a significant milestone by completing my PhD from Yıldız Technical University's Department of Statistics. Between 2014 and 2021, I served as a dedicated research assistant at the Department of Statistics in Marmara University. This experience laid a strong foundation for my professional growth. Moving forward to 2022, I had the privilege of being a part-time researcher at the PharmaSafe Research Group (University of Oslo) and the Computer Science Department (Oslo Metropolitan University). Collaborating with talented individuals has been a true blessing. 
+
+Beyond my academic endeavors, I'm a member of [RLadies] and [NORA.startup]. I find joy in giving back to the community through volunteering for LÖSEV and Fjord CleanUP, working towards a better world for all, including our marine friends 🐳.
+
+When I'm not immersed in research, I enjoy baking and cooking for loved ones, practicing yoga, stand-up paddleboarding, and delving into psychology literature. Currently, I'm excited about learning cross-country skiing – if you have any tips or know of free courses, I'm all ears! 🎿
+
+
+\
+&nbsp;
+
+
+```{r include=FALSE}
+imgs <- list.files("/Users/busenursarica/Documents/GitHub/busenurk.github.io/static/img/", pattern=".jpg", full.names = TRUE)
+```
+
+
+```{r echo=FALSE}
+slickR::slickR(
+  obj =  imgs,
+  height=500, 
+  width=700, slideId = c("1","2","3")
+) 
+```
+
+[National Centre for Suicide Research and Prevention]:(https://www.med.uio.no/klinmed/forskning/sentre/nssf/)
+[PERMANENS]:(https://www.med.uio.no/klinmed/english/about/news-and-events/news/2023/ping-qin-leads-uio-contribution-to-new-eu-project-suicide-prevention.html)
+[RLadies]: https://rladies.org/turkey-rladies/name/busenur-kizilaslan/
+[Statistics]: https://avesis.marmara.edu.tr/busenur.sarica
+[Erol Eğrioğlu]: https://scholar.google.com/citations?user=iBuowD8AAAAJ&hl=en
+[Atif Evren]: https://scholar.google.com.tr/citations?user=ZNhBLakAAAAJ&hl=tr
+[Barış Aşıkgil]: https://scholar.google.com.tr/citations?user=k1eGkSgAAAAJ&hl=tr 
+[LÖSEV]: https://www.losev.org.tr/v6
+[Young Scientist Awards, The International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat'2018), Poland]: https://www.tandfonline.com/doi/pdf/10.1080/03610918.2020.1720385
+[International Conference on Trends and Perspectives in Linear Statistical Inference (LinStat)]: https://www.tandfonline.com/doi/pdf/10.1080/03610918.2020.1720385
+[Müge Değirmenci! (Yoga Pan) ]: https://www.facebook.com/panyogaa/
+[Yeterly]: https://yeterly.com
+[Fjord CleanUP]: https://www.fjordcleanup.no
+[PharmaSafe]: https://www.mn.uio.no/farmasi/english/research/groups/pharma-safe/
+[IMI concePTION]: https://www.imi-conception.eu
+[Google Scholar]: https://scholar.google.com/citations?user=OKlYJEgAAAAJ&hl=en&oi=ao
+[LinkedIn]: https://www.linkedin.com/in/busenur-kızılaslan-795ab54a/
+[shutterstock]: https://www.shutterstock.com/en/g/Busenur+Kizilaslan?rid=343729487
+[Monday Fjord CleanUPs in Tjuvholmen]: https://www.fjordcleanup.no
+[NORA.startup]: https://www.nora.ai/nora-startup/

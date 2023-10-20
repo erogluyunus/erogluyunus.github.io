@@ -1,0 +1,12 @@
+---
+title: News
+---
+
+|         |       |      |
+|:------------|:----------------------------|:------------|
+Jun 12, 2022 | &nbsp; Participating in [Yapay Öğrenme Sohbetleri](https://event.goartevent.com/isbank-koc-sanalogrenme/) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
+Jun 9, 2022 | &nbsp; Participating in [EMEA Google Cloud Applied ML Summit](https://cloudonair.withgoogle.com/events/summit-applied-ml-2022) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
+Jun 7, 2022 | &nbsp; Participating in [Research School in AI](https://researchschool.w.uib.no) | &nbsp;&nbsp;&nbsp;&nbsp; Online |
+Jun 3, 2022  | &nbsp; Participating in [NordStar Workshop](https://www.oslomet.no/en/about/events/trustworthiness-sustainability-ai) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo |
+May 24, 2022 | &nbsp; Participating in [Ethical AI in Practice](https://www.nora.ai/events/NORA.startup-Ethical-AI-in-Practice) | &nbsp;&nbsp;&nbsp;&nbsp; Oslo | 
+

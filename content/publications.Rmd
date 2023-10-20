@@ -1,0 +1,22 @@
+---
+title: Publications
+---
+
+#### Article
+
+ 1. **Kizilaslan, B.**, Egrioglu, E., & Evren, A. A. (2020). [Intuitionistic fuzzy ridge regression functions](https://www.tandfonline.com/doi/abs/10.1080/03610918.2019.1626887). Communications in Statistics-Simulation and Computation, 49(3), 699-708.
+
+ 2. **Sarıca, B.**, Eğrioğlu, E., & Aşıkgil, B. (2018). [A new hybrid method for time series forecasting: AR–ANFIS](https://link.springer.com/article/10.1007/s00521-016-2475-5). Neural Computing and Applications, 29(3), 749-760.
+
+3. Inan, D., Egrioglu, E., **Sarica, B.**, Askin, O. E., & Tez, M. (2017). [Particle swarm optimization based Liu-type estimator](https://www.tandfonline.com/doi/abs/10.1080/03610926.2016.1267759). Communications in Statistics-Theory and Methods, 46(22), 11358-11369. 
+
+\
+&nbsp;
+
+
+#### Book Chapter
+
+ 1. **Sarıca, B.**, Eğrioğlu, E., & Aşıkgil, B. (2017). [Recurrent ANFIS for Time Series Forecasting](https://books.google.no/books?hl=en&lr=&id=fYxCDwAAQBAJ&oi=fnd&pg=PA156&dq=Recurrent+ANFIS+for+Time+Series+Forecasting&ots=RcgCzPOBqa&sig=UiZGnAa8tEFRV05WorWqI3rHq60&redir_esc=y#v=onepage&q=Recurrent%20ANFIS%20for%20Time%20Series%20Forecasting&f=false). Advances in Time Series Forecasting, 2(2), 156.
+ 
+ 
+ 
